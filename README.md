@@ -1,2 +1,0 @@
-# CaRo
-CaRo development
