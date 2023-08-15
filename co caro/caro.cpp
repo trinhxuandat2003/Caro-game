@@ -352,7 +352,7 @@ void khungplay()
     cout << (char) 188;
     gotoXY(34, 0);
     TextColor(13);
-    cout<<" GAME CO CARO ";
+    cout<<" CaRo ";
     TextColor(13);
     for(int i = 0; i<55; i++)
     {
